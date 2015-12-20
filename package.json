@@ -1,0 +1,25 @@
+{
+	"name": "clockjs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kcreate/clockjs.git"
+	},
+	"author": "Leonard Schuetz",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kcreate/clockjs/issues"
+	},
+	"bin": {
+		"clockjs": "bin/index.js"
+	},
+	"homepage": "https://github.com/kcreate/clockjs#readme",
+	"dependencies": {
+		"applescript": "^1.0.0"
+	}
+}

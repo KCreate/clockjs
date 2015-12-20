@@ -18,3 +18,4 @@ clockjs 19:05 [-p]
 If you pass ```-s``` after the time, a voice will announce that the timer has finished using the __say__ command.
 
 After the timer has finished, a little notification will pop up.
+![img](screenshot.jpg)
